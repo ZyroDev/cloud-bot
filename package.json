@@ -1,0 +1,15 @@
+{
+  "name": "cloudbot",
+  "version": "1.0.0",
+  "description": "cloudbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Zyro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "firebase": "^8.6.8"
+  }
+}
